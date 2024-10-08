@@ -4,6 +4,7 @@
 ** áreas afins: **
 #viajar:ocean:
 #ler:books:
-#unhas:nail_care:
+#unha:nail_care:
 #academia :muscle:
+#ouvir musica :headphones:
 ### site desenvolvido em HTMNL e CSS
